@@ -42,7 +42,7 @@ Frontend menampilkan **tabel data KTP** serta **form input** yang terhubung deng
 
 ### Halaman Utama
 
-![Home]https://raw.githubusercontent.com/iizaghz/Tugas_CRUD_20240140148/main/img.png
+![Home](https://raw.githubusercontent.com/iizaghz/Tugas_CRUD_20240140148/main/img.png)
 
 
 # Struktur Project
@@ -121,3 +121,4 @@ http://localhost:8080
 * Nama : Sukma Hawa Iza Ghazali
 * NIM : 20240140148
 * Mata Kuliah : Deployment Perangkat Lunax
+
